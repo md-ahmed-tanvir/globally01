@@ -77,6 +77,23 @@ Detected anomalies in 2023 Nigerian election data for transparency and accountab
 [![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
 
 
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
 
 
 ---
